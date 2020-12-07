@@ -1,4 +1,4 @@
 const hello = () =>{
-    console.log('hello~?');
+    console.log('Bo BOO!');
 }
 module.exports.hello = hello;
